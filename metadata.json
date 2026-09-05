@@ -1,0 +1,6 @@
+{
+  "name": "Dalok Interior",
+  "description": "Dalok Interior — Modern, premium living spaces, bespoke furniture, and architectural interior design. Contact: 9588814702.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
